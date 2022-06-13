@@ -84,8 +84,8 @@ body {
   
     }
   .img {
-  width: 300;
-  height: 300;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
@@ -93,5 +93,8 @@ body {
   }
   .section-title{
   text-decoration:underline;  
+  }
+  .sectionimg{
+    padding: 10px;
   }
   
